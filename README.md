@@ -11,22 +11,15 @@ Atualmente estudo e aplico ferramentas modernas de QA para garantir a confiabili
 - **API Testing:** Postman, Newman, REST, GraphQL  
 - **Frameworks de Teste:** Pytest, Mocha, Jest  
 - **Metodologias:** Agile, Scrum  
-- **Controle de Versão:** Git & GitHub  
-
+- **Controle de Versão:** Git & GitHub
+ 
 ---
+### 🧠 Inteligência Artificial Aplicada à QA
 
-## 🛠️ Tech Stack  
-
-### 🔹 Ícones (Devicon)
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</p>
+| Ferramenta | Aplicação |
+| :--- | :--- |
+| **Google Gemini** | Auxílio na **refatoração avançada** de código de automação (Cypress) e na otimização de scripts. |
+| **ChatGPT** | Geração e expansão de **casos de teste de borda e negativos** a partir de requisitos, aumentando a cobertura de forma inteligente. |
 
 ---
 
