@@ -7,21 +7,25 @@ Atualmente estudo e aplico ferramentas modernas de QA para garantir a confiabili
 
 ## 🛠️ Skills  
 - **Linguagens:** Python, JavaScript  
-- **Automação de Testes:** Cypress, Selenium, Playwright  
+- **Automação de Testes:** Cypress, Selenium, Robot framework 
 - **API Testing:** Postman, Newman, REST, GraphQL  
 - **Frameworks de Teste:** Pytest, Mocha, Jest  
 - **Metodologias:** Agile, Scrum  
 - **Controle de Versão:** Git & GitHub
  
 ---
-### 🧠 Inteligência Artificial Aplicada à QA
+### 🧠 Uso de Inteligência Artificial no Apoio à Qualidade de Software
 
-| Ferramenta | Aplicação |
+A Inteligência Artificial é utilizada neste contexto como **ferramenta de apoio ao trabalho de QA**, auxiliando na análise, melhoria de código e expansão de cenários de teste, sempre com **validação humana**.
+
+| Ferramenta | Aplicação no contexto de QA |
 | :--- | :--- |
-| **Google Gemini** | Auxílio na **refatoração avançada** de código de automação (Cypress) e na otimização de scripts. |
-| **ChatGPT** | Geração e expansão de **casos de teste de borda e negativos** a partir de requisitos, aumentando a cobertura de forma inteligente. |
+| **Google Gemini** | Apoio na **refatoração e melhoria de legibilidade** de scripts de automação em JavaScript (ex: Cypress), além de sugestões de boas práticas. |
+| **ChatGPT** | Suporte na **criação e expansão de casos de teste**, especialmente cenários de borda e negativos, a partir de requisitos funcionais e regras de negócio. |
 
+A IA é utilizada como **ferramenta complementar**, não substituindo o raciocínio crítico do QA, mas acelerando tarefas analíticas e aumentando a cobertura de testes.
 ---
+
 
 ### 🔹 Badges (Shields.io)
 
